@@ -15,7 +15,7 @@ Esta prueba técnica está diseñada para evaluar las habilidades de un desarrol
 
 ### Ejercicio: Sistema de Gestión de Pedidos (4 horas)
 
-#### Descripción 
+#### Descripción
 Implementar un sistema básico de gestión de pedidos con diferentes estados y sistema de notificaciones integrado.
 
 #### Requisitos Funcionales
