@@ -1,6 +1,6 @@
 # API Endpoints - Xenotech
 
-![POSTMAN]( https://freefire.postman.co/workspace/Xenotech~44432ab3-2c5e-4bc3-9528-e4ccacb85f40/collection/587297-7ede8bcf-69c1-4462-be47-59363c2402fd?action=share&source=copy-link&creator=587297)
+![POSTMAN]( https://freefire.postman.co/workspace/Xenotech~44432ab3-2c5e-4bc3-9528-e4ccacb85f40/collection/587297-7ede8bcf-69c1-4462-be47-59363c2402fd?action=share&creator=587297)
 
 ## Información General
 
